@@ -1,0 +1,6 @@
+{
+  "name": "star_wars",
+  "identifier": "com.domain.app.starwars",
+  "version": "1.0.0",
+  "icon": "./static/vader.png"
+}
